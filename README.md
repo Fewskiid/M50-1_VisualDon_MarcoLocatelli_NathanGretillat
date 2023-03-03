@@ -11,8 +11,11 @@ Avec ces données, nous avons des données sur l’Euro de 1960 à nos jours à 
 - Les chiffres fous et les anecdotes improbables de l'Euro : de 1992 à 2016, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1992-a-2016-10760411?id=10760411 (consulté le 02.03.2023)
 Les données ici présentes, reprennent la suite du lien d'avant. Ces données ont également été créées en juin 2021.
 
-- https://fr.wikipedia.org/wiki/Statistiques_et_records_du_Championnat_d%27Europe_de_football 
-- https://fr.wikipedia.org/wiki/Championnat_d%27Europe_de_football
+- Statistiques et records du Championnat d'Europe de football, Wikipédia : https://fr.wikipedia.org/wiki/Statistiques_et_records_du_Championnat_d%27Europe_de_football (consulté le 02.03.2023)
+Cette page Wikipédia regroupe différents records et statistiques en phase finale de l'Euro, depuis 1960. Cette page a été modifiée pour la dernières fois en janvier 2023.
+
+- Championnat d'Europe de football, Wikipédia : https://fr.wikipedia.org/wiki/Championnat_d%27Europe_de_football (consulté le 02.03.2023)
+La page Wikipédia ci-dessus regroupe plein d'informations intéressantes sur l'Euro. Notamment des informations plus générales comme le vainqueur de chaque championnat. L'article a été modifié pour la dernière fois en février 2023.
 
 
 # Description
