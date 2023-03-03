@@ -3,7 +3,7 @@
 # Contexte
 ## D'où viennent les données, qui les a créées et dans quel contexte ?
 
-- All-time stats, UEFA :https://www.uefa.com/uefaeuro/history/rankings/ (consulté le 02.03.2023)
+- All-time stats, UEFA : https://www.uefa.com/uefaeuro/history/rankings/ (consulté le 02.03.2023)
 Ces données sont les données officielles de l'Euro dans son ensemble. Le site répertorie toute l'histoire, ainsi que toutes les statistiques les plus intéressantes.
 
 - Average attendance 1960 - 2021, Statista : https://www.statista.com/statistics/378236/uefa-euro-average-attendance/ (consulté le 02.03.2023)
