@@ -36,4 +36,9 @@ Dans notre approche nous voulons créer une frise chronologique présentant dive
 
 # Références
 ## Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
-- 
+
+- Les journalistes sportifs : ils peuvent utiliser ces différentes données pour ecrire des artcles sur la compétition ou sur différentes statistiques et performences d'une équipe ou d'un joueur par exemple. 
+
+- Les analystes de données sportives : ils peuvent utiliser ces données pour étudier diverses tendances et pour analyser les données afin d'en tirer des conclusions et créer des schémas et graphes. Ces infos pourront être tranmsises aux journalistes ou aux médias en général pour les diffuser par la suite.
+
+- Les amateurs de football en général : ils peuvent utiliser ces données pour analyser certaines performances d'équipes ou de joueurs, pour suivre l'Euro en se renseignant sur des données.
