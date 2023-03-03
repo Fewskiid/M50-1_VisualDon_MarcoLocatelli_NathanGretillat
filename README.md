@@ -2,10 +2,10 @@
 
 # Contexte
 ## D'où viennent les données, qui les a créées et dans quel contexte ?
-- Average attendance 1960 - 2021, Statista : https://www.statista.com/statistics/378236/uefa-euro-average-attendance/ (consulté le 02.03.2023)<br>
+- Average attendance 1960 - 2021, Statista : https://www.statista.com/statistics/378236/uefa-euro-average-attendance/ (consulté le 02.03.2023)
 Ces données ont été créée en juillet 2021 et elles répertorient la fréquentation des stades de football de l'Euro entre 1960 et 2021.
 
-- Les chiffres fous et les anecdotes improbables de l'Euro : de 1960 à 1988, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1960-a-1988-10759567 (consulté le 02.03.2023)<br>
+- Les chiffres fous et les anecdotes improbables de l'Euro : de 1960 à 1988, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1960-a-1988-10759567 (consulté le 02.03.2023)
 Avec ces données, nous avons des données sur l’Euro de 1960 à nos jours à travers des chiffres, des anecdotes et autres curiosités. Elles ont été créées en juin 2021.
 
 - Les chiffres fous et les anecdotes improbables de l'Euro : de 1992 à 2016, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1992-a-2016-10760411?id=10760411 (consulté le 02.03.2023)
