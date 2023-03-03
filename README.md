@@ -3,9 +3,16 @@
 # Contexte
 ## D'où viennent les données, qui les a créées et dans quel contexte ?
 - Average attendance 1960 - 2021, Statista : https://www.statista.com/statistics/378236/uefa-euro-average-attendance/ (consulté le 02.03.2023)
-Ces données ont été créé entre 1960 et 2021 et elles répertorient la fréquentation des stades de football de l'euro.
+Ces données ont été créée en juillet 2021 et elles répertorient la fréquentation des stades de football de l'Euro entre 1960 et 2021.
 
--
+- Les chiffres fous et les anecdotes improbables de l'Euro : de 1960 à 1988, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1960-a-1988-10759567 (consulté le 02.03.2023)
+Avec ces données, nous avons des données sur l’Euro de 1960 à nos jours à travers des chiffres, des anecdotes et autres curiosités. Elles ont été créées en juin 2021.
+
+- Les chiffres fous et les anecdotes improbables de l'Euro : de 1992 à 2016, rtbf : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1992-a-2016-10760411?id=10760411 (consulté le 02.03.2023)
+Les données ici présentes, reprennent la suite du lien d'avant. Ces données ont également été créées en juin 2021.
+
+- https://fr.wikipedia.org/wiki/Statistiques_et_records_du_Championnat_d%27Europe_de_football 
+- https://fr.wikipedia.org/wiki/Championnat_d%27Europe_de_football
 
 
 # Description
@@ -17,7 +24,7 @@ Ces données ont été créé entre 1960 et 2021 et elles répertorient la fréq
 
 # But
 ## Qu'est-ce que vous voulez découvrir ? Des tendances ? Vous voulez explorer ou expliquer ?
-Dans notre approche nous voulons créer une frise chronologique présentant diverses données sur les matchs qui se sont déroulés lors de l'euro entre 1960 et maintenant tout en donnant des informations insolites pour capter l'attention des personnes pouvant potentiellement tomber sur ce travail. Avant de cliquer sur une année en particulier, nous souhaitons montrer des données générales comme des petits textes avec des informations marrantes ou insolites afin de raconter une histoire et intéresser le lecteur.
+Dans notre approche nous voulons créer une frise chronologique présentant diverses données sur les matchs qui se sont déroulés lors de l'Euro entre 1960 et maintenant tout en donnant des informations insolites pour capter l'attention des personnes pouvant potentiellement tomber sur ce travail. Avant de cliquer sur une année en particulier, nous souhaitons montrer des données générales comme des petits textes avec des informations marrantes ou insolites afin de raconter une histoire et intéresser le lecteur.
 
 
 # Références
