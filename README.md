@@ -46,4 +46,4 @@ Dans notre approche nous voulons créer une frise chronologique présentant dive
 - Les amateurs de football en général : ils peuvent utiliser ces données pour analyser certaines performances d'équipes ou de joueurs ou encore pour suivre l'Euro en se renseignant sur des données et statistiques.
 
 - Wikipédia : la plateforme répertorie une masse de données colossale. Dans notre cas les données de l'UEFA ont été utilsées pour créer une page sur les "Records et statistiques de l'Euro de Football de l'UEFA".
-Wikipédia, Records et statistiques de la Ligue des champions de l'UEFA : https://fr.wikipedia.org/wiki/Records_et_statistiques_de_la_Ligue_des_champions_de_l%27UEFA (consulté le 10.03.2023)
+Wikipédia, Records et statistiques de la Ligue des champions de l'UEFA : https://fr.wikipedia.org/wiki/Statistiques_et_records_du_Championnat_d%27Europe_de_football (consulté le 10.03.2023)
