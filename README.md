@@ -33,7 +33,7 @@ La page Wikipédia ci-dessus regroupe plein d'informations intéressantes sur l'
 
 # But
 ## Qu'est-ce que vous voulez découvrir ? Des tendances ? Vous voulez explorer ou expliquer ?
-Dans notre approche nous voulons créer une frise chronologique présentant diverses données sur les matchs qui se sont déroulés lors de l'Euro entre 1960 et 2021 tout en donnant des informations insolites pour capter l'attention des personnes pouvant potentiellement tomber sur ce travail. Avant de cliquer sur une année en particulier, nous souhaitons montrer des données générales comme des petits textes avec des informations insolites afin de raconter une histoire et intéresser le lecteur. Finalement, nous voulons donner des statistiques et chiffres intéressants.
+Dans notre approche nous voulons créer une frise chronologique présentant diverses données sur les matchs qui se sont déroulés lors de l'Euro entre 1960 et 2020 tout en donnant des informations insolites pour capter l'attention des personnes pouvant potentiellement tomber sur ce travail. Avant de cliquer sur une année en particulier, nous souhaitons montrer des données générales comme des petits textes avec des informations insolites afin de raconter une histoire et intéresser le lecteur. Finalement, nous voulons donner des statistiques et chiffres intéressants.
 
 
 # Références
