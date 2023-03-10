@@ -10,16 +10,16 @@ Ces données sont les données officielles de l'Euro dans son ensemble. Le site 
 Ces données ont été créée en juillet 2021 et elles répertorient la fréquentation des stades de football de l'Euro entre 1960 et 2021.
 
 - rtbf, Les chiffres fous et les anecdotes improbables de l'Euro : de 1960 à 1988 : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1960-a-1988-10759567 (consulté le 02.03.2023)
-Avec ce site, nous avons des données sur l’Euro de 1960 à nos jours à travers des chiffres, des anecdotes et autres curiosités. Elles ont été créées en juin 2021.
+Avec ce site, nous avons des données sur l’Euro de 1960 à celui de 1988 à travers des chiffres, des anecdotes et autres curiosités. Elles ont été créées en juin 2021.
 
 - rtbf, Les chiffres fous et les anecdotes improbables de l'Euro : de 1992 à 2016 : https://www.rtbf.be/article/les-chiffres-fous-et-les-anecdotes-improbables-de-l-euro-de-1992-a-2016-10760411?id=10760411 (consulté le 02.03.2023)
-Les données ici présentes, reprennent la suite du lien d'avant. Ces données ont également été créées en juin 2021.
+Les données ici présentes, reprennent la suite du lien d'avant. Les données représentées sont celle de l'Euro de 1992 à celui de 2020. Ces données ont également été créées en juin 2021.
 
 - Wikipédia, Statistiques et records du Championnat d'Europe de football : https://fr.wikipedia.org/wiki/Statistiques_et_records_du_Championnat_d%27Europe_de_football (consulté le 02.03.2023)
 Cette page Wikipédia regroupe différents records et statistiques en phase finale de l'Euro, depuis 1960. Cette page a été modifiée pour la dernières fois en janvier 2023.
 
 - Wikipédia, Championnat d'Europe de football : https://fr.wikipedia.org/wiki/Championnat_d%27Europe_de_football (consulté le 02.03.2023)
-La page Wikipédia ci-dessus regroupe plein d'informations intéressantes sur l'Euro. Notamment des informations plus générales comme le vainqueur de chaque championnat. L'article a été modifié pour la dernière fois en février 2023.
+La page Wikipédia ci-dessus regroupe plein d'informations intéressantes sur l'Euro. Notamment des informations plus générales comme le vainqueur de chaque championnat ou le meilleur buteur par exemple. L'article a été modifié pour la dernière fois en février 2023.
 
 
 # Description
