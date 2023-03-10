@@ -44,3 +44,6 @@ Dans notre approche nous voulons créer une frise chronologique présentant dive
 - Les analystes de données sportives : ils peuvent utiliser ces données pour étudier diverses tendances et pour analyser les données afin d'en tirer des conclusions et créer des schémas et graphes. Ces informations pourront être tranmsises aux journalistes ou aux médias en général pour les diffuser par la suite.
 
 - Les amateurs de football en général : ils peuvent utiliser ces données pour analyser certaines performances d'équipes ou de joueurs, pour suivre l'Euro en se renseignant sur des données.
+
+- Wikipédia, qui répertorie une masse de données colossale. Dans notre cas les données de l'UEFA ont été utilsées pour créer une page sur les "Records et statistiques de la Ligue des champions de l'UEFA".
+Wikipédia, Records et statistiques de la Ligue des champions de l'UEFA : https://fr.wikipedia.org/wiki/Records_et_statistiques_de_la_Ligue_des_champions_de_l%27UEFA (consulté le 10.03.2023)
