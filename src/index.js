@@ -125,6 +125,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/espagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "330");
@@ -132,6 +133,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "510")
     .attr("y", "330");
@@ -139,6 +141,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/france.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "430");
@@ -146,6 +149,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/italie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "510")
     .attr("y", "430");
@@ -153,6 +157,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/paysBas.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "530");
@@ -160,6 +165,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/slovaquie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "510")
     .attr("y", "530");
@@ -167,6 +173,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/portugal.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "590");
@@ -174,6 +181,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/urss.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "510")
     .attr("y", "590");
@@ -181,6 +189,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/grece.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "650");
@@ -188,6 +197,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/danemark.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "510")
     .attr("y", "650");
@@ -293,6 +303,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "877");
@@ -300,6 +311,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/espagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "977");
@@ -307,6 +319,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/italie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1077");
@@ -314,6 +327,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/france.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "580")
     .attr("y", "1077");
@@ -321,6 +335,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/paysBas.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "690")
     .attr("y", "1077");
@@ -328,6 +343,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/angleterre.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "800")
     .attr("y", "1077");
@@ -335,6 +351,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/danemark.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1177");
@@ -342,6 +359,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/portugal.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1277");
@@ -349,6 +367,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/suede.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1377");
@@ -356,6 +375,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/republiqueTcheque.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "585")
     .attr("y", "1377");
@@ -363,6 +383,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/belgique.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1477");
@@ -370,6 +391,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/russie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "580")
     .attr("y", "1477");
@@ -377,6 +399,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/croatie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "690")
     .attr("y", "1477");
@@ -384,6 +407,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/urss.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "825")
     .attr("y", "1477");
@@ -391,6 +415,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/turquie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1577");
@@ -398,6 +423,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/roumanie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "580")
     .attr("y", "1577");
@@ -405,6 +431,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/yougoslavie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "690")
     .attr("y", "1577");
@@ -412,6 +439,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/suisse.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "825")
     .attr("y", "1577");
@@ -419,6 +447,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/grece.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1677");
@@ -426,6 +455,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/hongrie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "580")
     .attr("y", "1677");
@@ -433,6 +463,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/pologne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "690")
     .attr("y", "1677");
@@ -440,6 +471,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/irlande.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "805")
     .attr("y", "1677");
@@ -447,6 +479,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/slovaquie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1777");
@@ -454,6 +487,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/ukraine.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "580")
     .attr("y", "1777");
@@ -461,6 +495,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/autriche.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "690")
     .attr("y", "1777");
@@ -468,6 +503,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/ecosse.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "800")
     .attr("y", "1777");
@@ -475,6 +511,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/bulgarie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1877");
@@ -482,6 +519,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/paysDeGalles.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "590")
     .attr("y", "1877");
@@ -489,6 +527,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/islande.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "1977");
@@ -496,6 +535,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/norvege.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "575")
     .attr("y", "1977");
@@ -503,6 +543,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/finlande.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "680")
     .attr("y", "1977");
@@ -510,6 +551,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/irlandeDuNord.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "800")
     .attr("y", "1977");
@@ -517,6 +559,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/albanie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "470")
     .attr("y", "2037");
@@ -524,6 +567,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/lettonie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "575")
     .attr("y", "2037");
@@ -531,6 +575,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/slovenie.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "710")
     .attr("y", "2037");
@@ -538,6 +583,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/macedoineDuNord.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "845")
     .attr("y", "2037");
@@ -564,6 +610,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "2292");
@@ -589,6 +636,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "2502");
@@ -614,6 +662,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "2712");
@@ -639,6 +688,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
   svg
     .append("image")
     .attr("xlink:href", "./img/drapeaux/danemark.svg")
+    .attr("class", "drapeauPays")
     .attr("height", "50")
     .attr("x", "400")
     .attr("y", "2922");
@@ -669,6 +719,62 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
     .attr("x", "400")
     .attr("y", "3152")
     .text(`${dataJson.Total_de_buts_marques}`);
+
+  let nomPays = selectAll(".drapeauPays");
+
+  nomPays.on("click", function () {
+    
+      select(".drapeauNomPaysText").remove();
+      select(".drapeauNomPaysRect").remove();
+      // Récupérer le nom de fichier SVG sans l'extension .svg
+      var nomFichier = d3
+        .select(this)
+        .attr("href")
+        .split("/")
+        .pop()
+        .replace(".svg", "");
+
+      // Ajouter un espace avant chaque lettre majuscule
+      nomFichier = nomFichier.replace(/([A-Z])/g, " $1");
+
+      // Convertir la première lettre du nom de fichier en majuscule
+      nomFichier = nomFichier.charAt(0).toUpperCase() + nomFichier.slice(1);
+
+      // Afficher le nom de fichier dans la console
+      console.log(nomFichier);
+
+      let newX = select(this).attr("x");
+      newX = parseInt(newX) + 20;
+      console.log(newX);
+
+      let newY = select(this).attr("y");
+      newY = parseInt(newY) + 50;
+      console.log(newY);
+
+      svg
+        .append("rect")
+        .attr("class", "drapeauNomPaysRect")
+        .attr("fill", "#143cdb")
+        .attr("x", newX)
+        .attr("y", newY)
+        .attr("width", "250")
+        .attr("height", "50");
+
+      svg
+        .append("text")
+        .text(nomFichier)
+        .attr("class", "drapeauNomPaysText")
+        .attr("x", newX + 10)
+        .attr("y", newY + 30)
+        .style("font-size", "1em")
+        .style("font-family", "Orbitron")
+        .attr("fill", "#fff");
+    nomPays.on("mouseout", function () {
+      select(".drapeauNomPaysText").remove();
+      select(".drapeauNomPaysRect").remove();
+    });
+    
+  });
 
   for (let i = 100; i <= 3100; i += 200) {
     cercleDate
@@ -722,6 +828,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "133");
@@ -1011,6 +1118,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 215")
               .attr("y", "860");
@@ -1026,6 +1134,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "860");
@@ -1041,6 +1150,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/yougoslavie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "691")
               .attr("y", "860");
@@ -1066,6 +1176,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "333");
@@ -1334,6 +1445,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 241")
               .attr("y", "1060");
@@ -1349,6 +1461,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "1060");
@@ -1364,6 +1477,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "662")
               .attr("y", "1060");
@@ -1389,6 +1503,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "533");
@@ -1612,6 +1727,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 171")
               .attr("y", "1240");
@@ -1627,6 +1743,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "1240");
@@ -1642,6 +1759,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "1240");
@@ -1667,6 +1785,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/belgique.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "733");
@@ -1899,6 +2018,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 275")
               .attr("y", "1460");
@@ -1914,6 +2034,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "1460");
@@ -1929,6 +2050,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "682")
               .attr("y", "1460");
@@ -1954,6 +2076,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/yougoslavie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "933");
@@ -2176,6 +2299,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/slovaquie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "1620");
@@ -2191,6 +2315,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "1620");
@@ -2216,6 +2341,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "1133");
@@ -2448,6 +2574,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 290")
               .attr("y", "1860");
@@ -2463,6 +2590,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "1860");
@@ -2478,6 +2606,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/belgique.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "1860");
@@ -2503,6 +2632,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "1333");
@@ -2727,6 +2857,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 215")
               .attr("y", "2020");
@@ -2742,6 +2873,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "2020");
@@ -2757,6 +2889,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "2020");
@@ -2782,6 +2915,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "1533");
@@ -2995,7 +3129,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/PaysBas.svg")
+              .attr("xlink:href", "./img/drapeaux/paysBas.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 265")
               .attr("y", "2220");
@@ -3010,7 +3145,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/PaysBas.svg")
+              .attr("xlink:href", "./img/drapeaux/paysBas.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "2220");
@@ -3026,6 +3162,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/urss.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "2220");
@@ -3051,6 +3188,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/suede.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "1733");
@@ -3318,7 +3456,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Danemark.svg")
+              .attr("xlink:href", "./img/drapeaux/danemark.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 265")
               .attr("y", "2485");
@@ -3333,7 +3472,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Danemark.svg")
+              .attr("xlink:href", "./img/drapeaux/danemark.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "2485");
@@ -3349,6 +3489,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "2485");
@@ -3374,6 +3515,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/angleterre.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "1933");
@@ -3588,7 +3730,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Allemagne.svg")
+              .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 270")
               .attr("y", "2667");
@@ -3603,7 +3746,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Allemagne.svg")
+              .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "2667");
@@ -3619,6 +3763,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/republiqueTcheque.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "2667");
@@ -3644,7 +3789,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Belgique.svg")
+              .attr("xlink:href", "./img/drapeaux/belgique.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2133");
@@ -3668,7 +3814,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/PaysBas.svg")
+              .attr("xlink:href", "./img/drapeaux/paysBas.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2203");
@@ -3928,7 +4075,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/France.svg")
+              .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 215")
               .attr("y", "2997");
@@ -3943,7 +4091,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/France.svg")
+              .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "2997");
@@ -3958,7 +4107,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Italie.svg")
+              .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "2997");
@@ -3984,7 +4134,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Portugal.svg")
+              .attr("xlink:href", "./img/drapeaux/portugal.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2333");
@@ -4199,7 +4350,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Grece.svg")
+              .attr("xlink:href", "./img/drapeaux/grece.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 200")
               .attr("y", "3150");
@@ -4214,7 +4366,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Grece.svg")
+              .attr("xlink:href", "./img/drapeaux/grece.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "3150");
@@ -4229,7 +4382,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Portugal.svg")
+              .attr("xlink:href", "./img/drapeaux/portugal.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "3150");
@@ -4255,7 +4409,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Autriche.svg")
+              .attr("xlink:href", "./img/drapeaux/autriche.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2533");
@@ -4279,7 +4434,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Suisse.svg")
+              .attr("xlink:href", "./img/drapeaux/suisse.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2600");
@@ -4504,6 +4660,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "240")
               .attr("y", "3405");
@@ -4519,6 +4676,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "3405");
@@ -4534,6 +4692,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/allemagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "667")
               .attr("y", "3405");
@@ -4559,7 +4718,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Pologne.svg")
+              .attr("xlink:href", "./img/drapeaux/pologne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2733");
@@ -4583,7 +4743,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/Ukraine.svg")
+              .attr("xlink:href", "./img/drapeaux/ukraine.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2800");
@@ -4916,6 +5077,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "241")
               .attr("y", "3670");
@@ -4931,6 +5093,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/espagne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "3670");
@@ -4946,6 +5109,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "674")
               .attr("y", "3670");
@@ -4971,7 +5135,8 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
 
             overlaySVG
               .append("image")
-              .attr("xlink:href", "./img/drapeaux/France.svg")
+              .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "2933");
@@ -5196,6 +5361,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/portugal.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "238")
               .attr("y", "3740");
@@ -5211,6 +5377,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/portugal.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "3740");
@@ -5226,6 +5393,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/france.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "667")
               .attr("y", "3740");
@@ -5252,6 +5420,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/unionEuropeenne.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", " 70")
               .attr("y", "3133");
@@ -5503,6 +5672,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "170")
               .attr("y", "4000");
@@ -5518,6 +5688,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/italie.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "500")
               .attr("y", "4000");
@@ -5533,6 +5704,7 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
             overlaySVG
               .append("image")
               .attr("xlink:href", "./img/drapeaux/angleterre.svg")
+              .attr("class", "drapeauPaysSVG")
               .attr("height", "50")
               .attr("x", "682")
               .attr("y", "4000");
@@ -5630,6 +5802,66 @@ d3.json("../statistiques/statistiques.json").then(function (data) {
           .duration(2000)
           .attr("r", "7")
           .delay(1000);
+
+          let nomPays = selectAll(".drapeauPaysSVG");
+
+          nomPays.on("click", function () {
+            
+              select(".drapeauNomPaysText").remove();
+              select(".drapeauNomPaysRect").remove();
+              // Récupérer le nom de fichier SVG sans l'extension .svg
+              var nomFichier = d3
+                .select(this)
+                .attr("href")
+                .split("/")
+                .pop()
+                .replace(".svg", "");
+        
+              // Ajouter un espace avant chaque lettre majuscule
+              nomFichier = nomFichier.replace(/([A-Z])/g, " $1");
+        
+              // Convertir la première lettre du nom de fichier en majuscule
+              nomFichier = nomFichier.charAt(0).toUpperCase() + nomFichier.slice(1);
+        
+              // Afficher le nom de fichier dans la console
+              console.log(nomFichier);
+        
+              let newX = select(this).attr("x");
+              newX = parseInt(newX) + 20;
+              console.log(newX);
+        
+              let newY = select(this).attr("y");
+              newY = parseInt(newY) + 50;
+              console.log(newY);
+
+              const overlaySVG = select(".overlay-svg");
+        
+              overlaySVG
+                .append("rect")
+                .attr("class", "drapeauNomPaysRect")
+                .attr("fill", "#143cdb")
+                .attr("x", newX)
+                .attr("y", newY)
+                .attr("width", "250")
+                .attr("height", "50");
+        
+              overlaySVG
+                .append("text")
+                .text(nomFichier)
+                .attr("class", "drapeauNomPaysText")
+                .attr("x", newX + 10)
+                .attr("y", newY + 30)
+                .style("font-size", "1em")
+                .style("font-family", "Orbitron")
+                .attr("fill", "#fff");
+            nomPays.on("mouseout", function () {
+              select(".drapeauNomPaysText").remove();
+              select(".drapeauNomPaysRect").remove();
+            });
+            
+          });
+
+          
       });
   }
 });

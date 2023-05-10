@@ -43,3 +43,21 @@ body {
   margin-left: 100px;
   float: left;
 }
+
+.cercleDate:hover{
+  fill: #143cdb;
+  cursor: pointer;
+}
+
+.AnecdotePoint:hover{
+  fill: #143cdb;
+  cursor: pointer;
+}
+
+.drapeauPays:hover{
+  cursor: pointer;
+}
+
+.drapeauPaysSVG:hover{
+  cursor: pointer;
+}
